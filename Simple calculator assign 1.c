@@ -1,3 +1,5 @@
+//George John Ochiere
+//ENE 212-0218/2021
 #include <stdio.h>
 //Simple addition and subtraction calculator
 int main()
